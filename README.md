@@ -12,7 +12,7 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
    ```
    
 2. **Crear configuraciones de Streamlit**
-   Creamos una carpeta .streamlit en la raiz del proyecto, y dentro de ella creamos un archivo llamado 'config.toml' y copiamos lo siguiente:
+   Creamos una carpeta `.streamlit` en la raiz del proyecto, y dentro de ella creamos un archivo llamado `config.toml` y copiamos lo siguiente:
    ```bash
    [theme]
    backgroundColor = "#dcd3d3"
