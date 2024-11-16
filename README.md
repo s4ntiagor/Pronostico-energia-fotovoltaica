@@ -25,7 +25,7 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
    streamlit run app_streamlit.py
    ```
 
-Después de ejecutar este comando, podrás ver la aplicación en tu navegador web. Streamlit proporcionará enlaces como los siguientes:
+   Después de ejecutar este comando, podrás ver la aplicación en tu navegador web. Streamlit proporcionará enlaces como los siguientes:
 
    ```bash
    Local URL: http://localhost:8501  
