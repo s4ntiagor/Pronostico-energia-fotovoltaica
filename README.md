@@ -1,2 +1,25 @@
-# tercera_entrega_IA
-Código para la tercera entrega de nuestro proyecto de la materia Inteligencia Artificial.
+# Pronóstico de Generación de Energía Fotovoltaica
+
+Este repositorio contiene el código para el despliegue de un modelo LSTM, desarrollado para pronosticar la generación de energía fotovoltaica. La interfaz del despliegue está implementada con Streamlit, proporcionando una experiencia interactiva y visual.
+
+
+## Pasos para ejecutar el proyecto
+
+1. **Clonar el repositorio**  
+   Abre tu terminal y ejecuta el siguiente comando:  
+   ```bash
+   git clone <https://github.com/s4ntiagor/tercera_entrega_IA.git>
+
+
+2. **Instalar las dependencias**  
+Instala las librerías requeridas ejecutando el siguiente comando en la raíz del proyecto:  
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Ejecutar la aplicación**
+Corre el archivo principal de la aplicación Streamlit: 
+
+```bash
+run app_streamlit.py
