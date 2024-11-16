@@ -12,14 +12,22 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
 
 
 2. **Instalar las dependencias**  
-Instala las librerías requeridas ejecutando el siguiente comando en la raíz del proyecto:  
+   Instala las librerías requeridas ejecutando el siguiente comando en la raíz del proyecto:  
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Ejecutar la aplicación**
-Corre el archivo principal de la aplicación Streamlit: 
+   Corre el archivo principal de la aplicación Streamlit: 
 
-```bash
-run app_streamlit.py
+   ```bash
+   streamlit run app_streamlit.py
+   ```
+
+Después de ejecutar este comando, podrás ver la aplicación en tu navegador web. Streamlit proporcionará enlaces como los siguientes:
+
+   ```bash
+   Local URL: http://localhost:8501  
+   Network URL: http://<tu-dirección-de-red>:8501  
+   ```
