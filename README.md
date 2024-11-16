@@ -21,14 +21,14 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
    textColor = "#000000"
     ```
     
-3. **Instalar las dependencias**  
+4. **Instalar las dependencias**  
    Instala las librerías requeridas ejecutando el siguiente comando en la raíz del proyecto:  
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Ejecutar la aplicación**
+5. **Ejecutar la aplicación**
    Corre el archivo principal de la aplicación Streamlit: 
 
    ```bash
