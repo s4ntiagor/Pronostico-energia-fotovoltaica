@@ -10,16 +10,15 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
    ```bash
    git clone <https://github.com/s4ntiagor/tercera_entrega_IA.git>
    ```
-
+   
 2. **Crear configuraciones de Streamlit**
-   Creamos una carpeta .streamlit en la raiz del proyecto, y dentro de ella creamos un archivo llamado 'config.toml'
-   y copiamos lo siguiente:
+   Creamos una carpeta .streamlit en la raiz del proyecto, y dentro de ella creamos un archivo llamado 'config.toml' y copiamos lo siguiente:
    ```bash
    [theme]
    backgroundColor = "#dcd3d3"
    secondaryBackgroundColor = "#079898"
    textColor = "#000000"
-    ```
+   ```
     
 4. **Instalar las dependencias**  
    Instala las librerías requeridas ejecutando el siguiente comando en la raíz del proyecto:  
