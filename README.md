@@ -1,2 +1,2 @@
 # tercera_entrega_IA
-pink pony club, I'm gonna keep on dancing at the pink ponny club
+Código para la tercera entrega de nuestro proyecto de la materia Inteligencia Artificial.
