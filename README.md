@@ -8,18 +8,27 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
 1. **Clonar el repositorio**  
    Abre tu terminal y ejecuta el siguiente comando:  
    ```bash
-   git clone https://github.com/s4ntiagor/tercera_entrega_IA.git
+   git clone <https://github.com/s4ntiagor/tercera_entrega_IA.git>
+   ```
 
-
-2. **Instalar las dependencias**  
+2. **Crear configuraciones de Streamlit**
+   Creamos una carpeta .streamlit en la raiz del proyecto, y dentro de ella creamos un archivo llamado 'config.toml'
+   y copiamos lo siguiente:
+   ```bash
+   [theme]
+   backgroundColor = "#dcd3d3"
+   secondaryBackgroundColor = "#079898"
+   textColor = "#000000"
+    ```
+    
+3. **Instalar las dependencias**  
    Instala las librerías requeridas ejecutando el siguiente comando en la raíz del proyecto:  
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Ejecutar la aplicación**
-
+4. **Ejecutar la aplicación**
    Corre el archivo principal de la aplicación Streamlit: 
 
    ```bash
