@@ -8,7 +8,7 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
 1. **Clonar el repositorio**  
    Abre tu terminal y ejecuta el siguiente comando:  
    ```bash
-   git clone <https://github.com/s4ntiagor/tercera_entrega_IA.git>
+   https://github.com/s4ntiagor/Pronostico-energia-fotovoltaica
    ```
    
 2. **Crear configuraciones de Streamlit**
