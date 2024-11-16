@@ -8,7 +8,7 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
 1. **Clonar el repositorio**  
    Abre tu terminal y ejecuta el siguiente comando:  
    ```bash
-   git clone <https://github.com/s4ntiagor/tercera_entrega_IA.git>
+   git clone https://github.com/s4ntiagor/tercera_entrega_IA.git
 
 
 2. **Instalar las dependencias**  
@@ -19,6 +19,7 @@ Este repositorio contiene el código para el despliegue de un modelo LSTM, desar
    ```
 
 3. **Ejecutar la aplicación**
+
    Corre el archivo principal de la aplicación Streamlit: 
 
    ```bash
